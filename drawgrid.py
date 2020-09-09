@@ -1,3 +1,4 @@
+import sys
 from PIL import Image, ImageDraw
 def drawgrid(grid,side):
     scale=5
